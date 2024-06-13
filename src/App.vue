@@ -31,5 +31,8 @@ function jump(path){
 </template>
 
 <style scoped>
-
+/* <li class="nav-item"> */
+      /* <a class="nav-link" @click="jump('/Market')" aria-current="page" href="#">二手市场</a> */
+    /* </li> */
 </style>
+
