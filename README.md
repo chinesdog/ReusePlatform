@@ -4,4 +4,7 @@
 
 - 后端采用springboot+mybatis-plus+mysql数据库
 
-  
+效果如下图
+  ![](./public/show1.png)
+  ![](./public/show2.png)
+  ![](./public/addBook.png)
